@@ -1,2 +1,2 @@
-# Figma-Projects
+# Figma-Sample-Projects
 
